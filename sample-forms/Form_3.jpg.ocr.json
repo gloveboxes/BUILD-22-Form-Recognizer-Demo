@@ -1,0 +1,4306 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2022-05-25T02:17:19Z",
+	"lastUpdatedDateTime": "2022-05-25T02:17:20Z",
+	"analyzeResult": {
+		"apiVersion": "2022-01-30-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "textElements",
+		"content": "Purchase Order\nHero Limited\nCompany Phone: 555-348-6512\nWebsite: www.herolimited.com\nEmail:\nPurchase Order\nDated As: 02/10/2020\nPurchase Order #: 9328424\naccounts@herolimited.com\nShipped To\nVendor Name: Tish Williams\nCompany Name: Tish's Wishes\nAddress: 932 N Cantaloupe Road\nSeattle, WA 38383\nPhone: 323-245-2943\nShipped From\nName: Larry Longshore\nCompany Name: Longshore Supply\nAddress: 382 N Cool Road\nBellevue WA 93939\nPhone: 938-242-4924\nDetails\nQuantity\nUnit Price\nTotal\nParty Favor purple\n20\n5.00\n100.00\nParty Hat Blue\n20\n5.00\n100.00\nParty Cloth White\n20\n5.00\n100.00\nParty Maraca White\n20\n5.00\n100.00\nLarry Longshore\nLarry Longshore\nShipping Manager\nAdditional Notes:\nSUBTOTAL\n$400.00\nTAX\n$14.00\nTOTAL\n$414.00\nUnpack Carefully. Enjoy. Longshore Supply wishes you a happy party and is always here for\nfor your party supply needs. For larger events and rentals please visit us at our affiliates\nwebpage:\nwww.longshoreevents.org",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 1157,
+				"height": 1491,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Purchase",
+						"boundingBox": [
+							91,
+							95,
+							176,
+							96,
+							176,
+							116,
+							91,
+							116
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 0,
+							"length": 8
+						}
+					},
+					{
+						"content": "Order",
+						"boundingBox": [
+							181,
+							96,
+							239,
+							96,
+							238,
+							116,
+							180,
+							116
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 9,
+							"length": 5
+						}
+					},
+					{
+						"content": "Hero",
+						"boundingBox": [
+							423,
+							141,
+							526,
+							140,
+							526,
+							184,
+							422,
+							184
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 15,
+							"length": 4
+						}
+					},
+					{
+						"content": "Limited",
+						"boundingBox": [
+							548,
+							140,
+							725,
+							140,
+							724,
+							183,
+							547,
+							184
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 20,
+							"length": 7
+						}
+					},
+					{
+						"content": "Company",
+						"boundingBox": [
+							110,
+							242,
+							184,
+							241,
+							184,
+							261,
+							110,
+							261
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 28,
+							"length": 7
+						}
+					},
+					{
+						"content": "Phone:",
+						"boundingBox": [
+							188,
+							241,
+							245,
+							241,
+							245,
+							260,
+							188,
+							261
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 36,
+							"length": 6
+						}
+					},
+					{
+						"content": "555-348-6512",
+						"boundingBox": [
+							249,
+							241,
+							360,
+							241,
+							359,
+							259,
+							249,
+							260
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 43,
+							"length": 12
+						}
+					},
+					{
+						"content": "Website:",
+						"boundingBox": [
+							111,
+							269,
+							182,
+							270,
+							182,
+							289,
+							111,
+							288
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 56,
+							"length": 8
+						}
+					},
+					{
+						"content": "www.herolimited.com",
+						"boundingBox": [
+							185,
+							270,
+							354,
+							270,
+							354,
+							288,
+							186,
+							289
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 65,
+							"length": 19
+						}
+					},
+					{
+						"content": "Email:",
+						"boundingBox": [
+							111,
+							300,
+							161,
+							299,
+							160,
+							317,
+							111,
+							317
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 85,
+							"length": 6
+						}
+					},
+					{
+						"content": "Purchase",
+						"boundingBox": [
+							761,
+							220,
+							936,
+							220,
+							936,
+							257,
+							762,
+							255
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 92,
+							"length": 8
+						}
+					},
+					{
+						"content": "Order",
+						"boundingBox": [
+							949,
+							220,
+							1063,
+							218,
+							1062,
+							258,
+							949,
+							257
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 101,
+							"length": 5
+						}
+					},
+					{
+						"content": "Dated",
+						"boundingBox": [
+							700,
+							288,
+							756,
+							288,
+							756,
+							309,
+							701,
+							309
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 107,
+							"length": 5
+						}
+					},
+					{
+						"content": "As:",
+						"boundingBox": [
+							762,
+							288,
+							790,
+							288,
+							790,
+							309,
+							762,
+							309
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 113,
+							"length": 3
+						}
+					},
+					{
+						"content": "02/10/2020",
+						"boundingBox": [
+							795,
+							288,
+							897,
+							288,
+							897,
+							310,
+							795,
+							310
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 117,
+							"length": 10
+						}
+					},
+					{
+						"content": "Purchase",
+						"boundingBox": [
+							700,
+							317,
+							785,
+							317,
+							785,
+							337,
+							700,
+							336
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 128,
+							"length": 8
+						}
+					},
+					{
+						"content": "Order",
+						"boundingBox": [
+							791,
+							317,
+							846,
+							317,
+							846,
+							337,
+							791,
+							337
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 137,
+							"length": 5
+						}
+					},
+					{
+						"content": "#:",
+						"boundingBox": [
+							850,
+							317,
+							871,
+							317,
+							870,
+							337,
+							849,
+							337
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 143,
+							"length": 2
+						}
+					},
+					{
+						"content": "9328424",
+						"boundingBox": [
+							875,
+							317,
+							949,
+							317,
+							948,
+							336,
+							874,
+							337
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 146,
+							"length": 7
+						}
+					},
+					{
+						"content": "accounts@herolimited.com",
+						"boundingBox": [
+							110,
+							329,
+							322,
+							328,
+							322,
+							347,
+							110,
+							347
+						],
+						"confidence": 0.94,
+						"span": {
+							"offset": 154,
+							"length": 24
+						}
+					},
+					{
+						"content": "Shipped",
+						"boundingBox": [
+							112,
+							376,
+							222,
+							376,
+							223,
+							407,
+							113,
+							410
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 179,
+							"length": 7
+						}
+					},
+					{
+						"content": "To",
+						"boundingBox": [
+							234,
+							375,
+							265,
+							375,
+							265,
+							406,
+							234,
+							407
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 187,
+							"length": 2
+						}
+					},
+					{
+						"content": "Vendor",
+						"boundingBox": [
+							107,
+							419,
+							171,
+							418,
+							171,
+							439,
+							108,
+							439
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 190,
+							"length": 6
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							175,
+							418,
+							235,
+							419,
+							235,
+							439,
+							175,
+							439
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 197,
+							"length": 5
+						}
+					},
+					{
+						"content": "Tish",
+						"boundingBox": [
+							239,
+							419,
+							272,
+							419,
+							272,
+							439,
+							239,
+							439
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 203,
+							"length": 4
+						}
+					},
+					{
+						"content": "Williams",
+						"boundingBox": [
+							276,
+							419,
+							353,
+							419,
+							352,
+							439,
+							276,
+							439
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 208,
+							"length": 8
+						}
+					},
+					{
+						"content": "Company",
+						"boundingBox": [
+							107,
+							445,
+							188,
+							445,
+							188,
+							466,
+							107,
+							466
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 217,
+							"length": 7
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							192,
+							445,
+							252,
+							445,
+							252,
+							465,
+							192,
+							466
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 225,
+							"length": 5
+						}
+					},
+					{
+						"content": "Tish's",
+						"boundingBox": [
+							256,
+							445,
+							303,
+							444,
+							303,
+							465,
+							257,
+							465
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 231,
+							"length": 6
+						}
+					},
+					{
+						"content": "Wishes",
+						"boundingBox": [
+							307,
+							444,
+							372,
+							444,
+							372,
+							464,
+							307,
+							465
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 238,
+							"length": 6
+						}
+					},
+					{
+						"content": "Address:",
+						"boundingBox": [
+							107,
+							469,
+							181,
+							470,
+							181,
+							491,
+							107,
+							489
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 245,
+							"length": 8
+						}
+					},
+					{
+						"content": "932",
+						"boundingBox": [
+							185,
+							470,
+							218,
+							470,
+							218,
+							491,
+							185,
+							491
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 254,
+							"length": 3
+						}
+					},
+					{
+						"content": "N",
+						"boundingBox": [
+							222,
+							470,
+							234,
+							470,
+							233,
+							491,
+							222,
+							491
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 258,
+							"length": 1
+						}
+					},
+					{
+						"content": "Cantaloupe",
+						"boundingBox": [
+							240,
+							470,
+							338,
+							470,
+							337,
+							492,
+							239,
+							491
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 260,
+							"length": 10
+						}
+					},
+					{
+						"content": "Road",
+						"boundingBox": [
+							343,
+							470,
+							386,
+							470,
+							385,
+							491,
+							342,
+							492
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 271,
+							"length": 4
+						}
+					},
+					{
+						"content": "Seattle,",
+						"boundingBox": [
+							186,
+							496,
+							249,
+							496,
+							249,
+							516,
+							186,
+							517
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 276,
+							"length": 8
+						}
+					},
+					{
+						"content": "WA",
+						"boundingBox": [
+							253,
+							496,
+							284,
+							495,
+							284,
+							515,
+							253,
+							516
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 285,
+							"length": 2
+						}
+					},
+					{
+						"content": "38383",
+						"boundingBox": [
+							290,
+							495,
+							343,
+							495,
+							343,
+							515,
+							290,
+							515
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 288,
+							"length": 5
+						}
+					},
+					{
+						"content": "Phone:",
+						"boundingBox": [
+							519,
+							495,
+							581,
+							496,
+							581,
+							515,
+							518,
+							516
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 294,
+							"length": 6
+						}
+					},
+					{
+						"content": "323-245-2943",
+						"boundingBox": [
+							585,
+							496,
+							705,
+							495,
+							705,
+							515,
+							585,
+							515
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 301,
+							"length": 12
+						}
+					},
+					{
+						"content": "Shipped",
+						"boundingBox": [
+							113,
+							538,
+							222,
+							539,
+							222,
+							571,
+							113,
+							571
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 314,
+							"length": 7
+						}
+					},
+					{
+						"content": "From",
+						"boundingBox": [
+							229,
+							539,
+							295,
+							539,
+							296,
+							569,
+							230,
+							571
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 322,
+							"length": 4
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							112,
+							585,
+							167,
+							585,
+							167,
+							606,
+							112,
+							605
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 327,
+							"length": 5
+						}
+					},
+					{
+						"content": "Larry",
+						"boundingBox": [
+							171,
+							585,
+							214,
+							585,
+							214,
+							607,
+							171,
+							606
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 333,
+							"length": 5
+						}
+					},
+					{
+						"content": "Longshore",
+						"boundingBox": [
+							219,
+							585,
+							310,
+							585,
+							310,
+							606,
+							219,
+							607
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 339,
+							"length": 9
+						}
+					},
+					{
+						"content": "Company",
+						"boundingBox": [
+							111,
+							611,
+							191,
+							610,
+							191,
+							632,
+							111,
+							632
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 349,
+							"length": 7
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							195,
+							610,
+							254,
+							610,
+							254,
+							632,
+							195,
+							632
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 357,
+							"length": 5
+						}
+					},
+					{
+						"content": "Longshore",
+						"boundingBox": [
+							259,
+							610,
+							348,
+							610,
+							347,
+							633,
+							258,
+							632
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 363,
+							"length": 9
+						}
+					},
+					{
+						"content": "Supply",
+						"boundingBox": [
+							352,
+							610,
+							410,
+							611,
+							410,
+							633,
+							352,
+							633
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 373,
+							"length": 6
+						}
+					},
+					{
+						"content": "Address:",
+						"boundingBox": [
+							111,
+							635,
+							186,
+							635,
+							186,
+							655,
+							111,
+							654
+						],
+						"confidence": 0.97,
+						"span": {
+							"offset": 380,
+							"length": 8
+						}
+					},
+					{
+						"content": "382",
+						"boundingBox": [
+							190,
+							635,
+							222,
+							635,
+							222,
+							655,
+							189,
+							655
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 389,
+							"length": 3
+						}
+					},
+					{
+						"content": "N",
+						"boundingBox": [
+							226,
+							635,
+							237,
+							635,
+							237,
+							655,
+							226,
+							655
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 393,
+							"length": 1
+						}
+					},
+					{
+						"content": "Cool",
+						"boundingBox": [
+							243,
+							635,
+							282,
+							635,
+							281,
+							655,
+							243,
+							655
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 395,
+							"length": 4
+						}
+					},
+					{
+						"content": "Road",
+						"boundingBox": [
+							286,
+							635,
+							329,
+							635,
+							329,
+							655,
+							285,
+							655
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 400,
+							"length": 4
+						}
+					},
+					{
+						"content": "Bellevue",
+						"boundingBox": [
+							192,
+							661,
+							263,
+							661,
+							263,
+							681,
+							192,
+							681
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 405,
+							"length": 8
+						}
+					},
+					{
+						"content": "WA",
+						"boundingBox": [
+							267,
+							661,
+							299,
+							661,
+							299,
+							681,
+							267,
+							681
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 414,
+							"length": 2
+						}
+					},
+					{
+						"content": "93939",
+						"boundingBox": [
+							303,
+							661,
+							357,
+							661,
+							357,
+							681,
+							304,
+							681
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 417,
+							"length": 5
+						}
+					},
+					{
+						"content": "Phone:",
+						"boundingBox": [
+							517,
+							661,
+							578,
+							661,
+							577,
+							681,
+							517,
+							681
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 423,
+							"length": 6
+						}
+					},
+					{
+						"content": "938-242-4924",
+						"boundingBox": [
+							581,
+							661,
+							702,
+							661,
+							702,
+							681,
+							581,
+							681
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 430,
+							"length": 12
+						}
+					},
+					{
+						"content": "Details",
+						"boundingBox": [
+							304,
+							719,
+							378,
+							718,
+							378,
+							740,
+							304,
+							741
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 443,
+							"length": 7
+						}
+					},
+					{
+						"content": "Quantity",
+						"boundingBox": [
+							606,
+							718,
+							703,
+							720,
+							703,
+							744,
+							606,
+							743
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 451,
+							"length": 8
+						}
+					},
+					{
+						"content": "Unit",
+						"boundingBox": [
+							760,
+							718,
+							806,
+							719,
+							806,
+							740,
+							760,
+							740
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 460,
+							"length": 4
+						}
+					},
+					{
+						"content": "Price",
+						"boundingBox": [
+							810,
+							719,
+							865,
+							719,
+							865,
+							740,
+							810,
+							740
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 465,
+							"length": 5
+						}
+					},
+					{
+						"content": "Total",
+						"boundingBox": [
+							947,
+							718,
+							1004,
+							718,
+							1004,
+							739,
+							947,
+							739
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 471,
+							"length": 5
+						}
+					},
+					{
+						"content": "Party",
+						"boundingBox": [
+							115,
+							751,
+							158,
+							751,
+							158,
+							772,
+							115,
+							772
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 477,
+							"length": 5
+						}
+					},
+					{
+						"content": "Favor",
+						"boundingBox": [
+							162,
+							751,
+							211,
+							751,
+							211,
+							773,
+							162,
+							772
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 483,
+							"length": 5
+						}
+					},
+					{
+						"content": "purple",
+						"boundingBox": [
+							215,
+							751,
+							273,
+							751,
+							273,
+							773,
+							215,
+							773
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 489,
+							"length": 6
+						}
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							590,
+							751,
+							607,
+							752,
+							607,
+							768,
+							589,
+							767
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 496,
+							"length": 2
+						}
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							849,
+							751,
+							883,
+							751,
+							883,
+							768,
+							849,
+							768
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 499,
+							"length": 4
+						}
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							987,
+							749,
+							1045,
+							748,
+							1046,
+							770,
+							988,
+							771
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 504,
+							"length": 6
+						}
+					},
+					{
+						"content": "Party",
+						"boundingBox": [
+							116,
+							779,
+							160,
+							779,
+							159,
+							799,
+							115,
+							799
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 511,
+							"length": 5
+						}
+					},
+					{
+						"content": "Hat",
+						"boundingBox": [
+							164,
+							779,
+							195,
+							779,
+							194,
+							799,
+							163,
+							799
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 517,
+							"length": 3
+						}
+					},
+					{
+						"content": "Blue",
+						"boundingBox": [
+							199,
+							779,
+							237,
+							779,
+							236,
+							799,
+							198,
+							799
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 521,
+							"length": 4
+						}
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							590,
+							779,
+							607,
+							779,
+							607,
+							796,
+							589,
+							796
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 526,
+							"length": 2
+						}
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							849,
+							779,
+							883,
+							779,
+							883,
+							796,
+							849,
+							796
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 529,
+							"length": 4
+						}
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							989,
+							779,
+							1045,
+							779,
+							1044,
+							796,
+							989,
+							797
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 534,
+							"length": 6
+						}
+					},
+					{
+						"content": "Party",
+						"boundingBox": [
+							115,
+							809,
+							158,
+							809,
+							158,
+							830,
+							115,
+							829
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 541,
+							"length": 5
+						}
+					},
+					{
+						"content": "Cloth",
+						"boundingBox": [
+							162,
+							809,
+							208,
+							809,
+							209,
+							830,
+							162,
+							830
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 547,
+							"length": 5
+						}
+					},
+					{
+						"content": "White",
+						"boundingBox": [
+							213,
+							809,
+							266,
+							808,
+							267,
+							830,
+							213,
+							830
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 553,
+							"length": 5
+						}
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							590,
+							810,
+							606,
+							810,
+							606,
+							826,
+							590,
+							826
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 559,
+							"length": 2
+						}
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							849,
+							809,
+							883,
+							809,
+							883,
+							826,
+							848,
+							825
+						],
+						"confidence": 0.953,
+						"span": {
+							"offset": 562,
+							"length": 4
+						}
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							989,
+							810,
+							1044,
+							810,
+							1043,
+							827,
+							990,
+							828
+						],
+						"confidence": 0.02,
+						"span": {
+							"offset": 567,
+							"length": 6
+						}
+					},
+					{
+						"content": "Party",
+						"boundingBox": [
+							115,
+							839,
+							158,
+							839,
+							158,
+							860,
+							115,
+							858
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 574,
+							"length": 5
+						}
+					},
+					{
+						"content": "Maraca",
+						"boundingBox": [
+							162,
+							839,
+							228,
+							839,
+							227,
+							860,
+							162,
+							860
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 580,
+							"length": 6
+						}
+					},
+					{
+						"content": "White",
+						"boundingBox": [
+							232,
+							839,
+							285,
+							838,
+							285,
+							859,
+							231,
+							860
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 587,
+							"length": 5
+						}
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							589,
+							839,
+							607,
+							839,
+							607,
+							856,
+							590,
+							856
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 593,
+							"length": 2
+						}
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							848,
+							839,
+							883,
+							839,
+							883,
+							856,
+							849,
+							856
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 596,
+							"length": 4
+						}
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							988,
+							839,
+							1044,
+							839,
+							1043,
+							856,
+							988,
+							857
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 601,
+							"length": 6
+						}
+					},
+					{
+						"content": "Larry",
+						"boundingBox": [
+							313,
+							1151,
+							391,
+							1150,
+							391,
+							1176,
+							312,
+							1175
+						],
+						"confidence": 0.927,
+						"span": {
+							"offset": 608,
+							"length": 5
+						}
+					},
+					{
+						"content": "Longshore",
+						"boundingBox": [
+							408,
+							1150,
+							540,
+							1148,
+							540,
+							1174,
+							408,
+							1176
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 614,
+							"length": 9
+						}
+					},
+					{
+						"content": "Larry",
+						"boundingBox": [
+							364,
+							1178,
+							404,
+							1177,
+							404,
+							1199,
+							365,
+							1198
+						],
+						"confidence": 0.581,
+						"span": {
+							"offset": 624,
+							"length": 5
+						}
+					},
+					{
+						"content": "Longshore",
+						"boundingBox": [
+							408,
+							1177,
+							492,
+							1178,
+							492,
+							1197,
+							408,
+							1199
+						],
+						"confidence": 0.91,
+						"span": {
+							"offset": 630,
+							"length": 9
+						}
+					},
+					{
+						"content": "Shipping",
+						"boundingBox": [
+							359,
+							1201,
+							424,
+							1202,
+							423,
+							1222,
+							359,
+							1223
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 640,
+							"length": 8
+						}
+					},
+					{
+						"content": "Manager",
+						"boundingBox": [
+							428,
+							1202,
+							501,
+							1204,
+							501,
+							1223,
+							427,
+							1222
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 649,
+							"length": 7
+						}
+					},
+					{
+						"content": "Additional",
+						"boundingBox": [
+							117,
+							1233,
+							240,
+							1234,
+							240,
+							1257,
+							117,
+							1258
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 657,
+							"length": 10
+						}
+					},
+					{
+						"content": "Notes:",
+						"boundingBox": [
+							245,
+							1234,
+							328,
+							1234,
+							328,
+							1258,
+							245,
+							1257
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 668,
+							"length": 6
+						}
+					},
+					{
+						"content": "SUBTOTAL",
+						"boundingBox": [
+							784,
+							1081,
+							885,
+							1081,
+							884,
+							1099,
+							783,
+							1099
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 675,
+							"length": 8
+						}
+					},
+					{
+						"content": "$400.00",
+						"boundingBox": [
+							976,
+							1077,
+							1045,
+							1076,
+							1045,
+							1099,
+							977,
+							1099
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 684,
+							"length": 7
+						}
+					},
+					{
+						"content": "TAX",
+						"boundingBox": [
+							848,
+							1110,
+							883,
+							1110,
+							883,
+							1128,
+							848,
+							1128
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 692,
+							"length": 3
+						}
+					},
+					{
+						"content": "$14.00",
+						"boundingBox": [
+							987,
+							1108,
+							1045,
+							1107,
+							1046,
+							1127,
+							988,
+							1128
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 696,
+							"length": 6
+						}
+					},
+					{
+						"content": "TOTAL",
+						"boundingBox": [
+							823,
+							1148,
+							885,
+							1148,
+							885,
+							1166,
+							824,
+							1167
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 703,
+							"length": 5
+						}
+					},
+					{
+						"content": "$414.00",
+						"boundingBox": [
+							977,
+							1146,
+							1045,
+							1145,
+							1044,
+							1165,
+							977,
+							1166
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 709,
+							"length": 7
+						}
+					},
+					{
+						"content": "Unpack",
+						"boundingBox": [
+							117,
+							1289,
+							177,
+							1289,
+							178,
+							1312,
+							117,
+							1311
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 717,
+							"length": 6
+						}
+					},
+					{
+						"content": "Carefully.",
+						"boundingBox": [
+							182,
+							1289,
+							264,
+							1289,
+							264,
+							1313,
+							183,
+							1312
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 724,
+							"length": 10
+						}
+					},
+					{
+						"content": "Enjoy.",
+						"boundingBox": [
+							268,
+							1289,
+							320,
+							1288,
+							321,
+							1313,
+							269,
+							1313
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 735,
+							"length": 6
+						}
+					},
+					{
+						"content": "Longshore",
+						"boundingBox": [
+							325,
+							1288,
+							435,
+							1288,
+							435,
+							1314,
+							325,
+							1313
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 742,
+							"length": 9
+						}
+					},
+					{
+						"content": "Supply",
+						"boundingBox": [
+							440,
+							1288,
+							510,
+							1288,
+							510,
+							1314,
+							441,
+							1314
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 752,
+							"length": 6
+						}
+					},
+					{
+						"content": "wishes",
+						"boundingBox": [
+							515,
+							1288,
+							587,
+							1288,
+							586,
+							1314,
+							515,
+							1314
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 759,
+							"length": 6
+						}
+					},
+					{
+						"content": "you",
+						"boundingBox": [
+							591,
+							1288,
+							630,
+							1288,
+							629,
+							1314,
+							591,
+							1314
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 766,
+							"length": 3
+						}
+					},
+					{
+						"content": "a",
+						"boundingBox": [
+							635,
+							1288,
+							648,
+							1288,
+							648,
+							1314,
+							635,
+							1314
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 770,
+							"length": 1
+						}
+					},
+					{
+						"content": "happy",
+						"boundingBox": [
+							653,
+							1288,
+							718,
+							1288,
+							718,
+							1314,
+							653,
+							1314
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 772,
+							"length": 5
+						}
+					},
+					{
+						"content": "party",
+						"boundingBox": [
+							723,
+							1288,
+							776,
+							1288,
+							776,
+							1314,
+							723,
+							1314
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 778,
+							"length": 5
+						}
+					},
+					{
+						"content": "and",
+						"boundingBox": [
+							781,
+							1288,
+							819,
+							1288,
+							818,
+							1313,
+							781,
+							1314
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 784,
+							"length": 3
+						}
+					},
+					{
+						"content": "is",
+						"boundingBox": [
+							823,
+							1288,
+							843,
+							1288,
+							843,
+							1313,
+							823,
+							1313
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 788,
+							"length": 2
+						}
+					},
+					{
+						"content": "always",
+						"boundingBox": [
+							848,
+							1288,
+							919,
+							1288,
+							919,
+							1313,
+							848,
+							1313
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 791,
+							"length": 6
+						}
+					},
+					{
+						"content": "here",
+						"boundingBox": [
+							924,
+							1288,
+							971,
+							1288,
+							971,
+							1312,
+							924,
+							1313
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 798,
+							"length": 4
+						}
+					},
+					{
+						"content": "for",
+						"boundingBox": [
+							976,
+							1288,
+							1006,
+							1288,
+							1006,
+							1312,
+							976,
+							1312
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 803,
+							"length": 3
+						}
+					},
+					{
+						"content": "for",
+						"boundingBox": [
+							116,
+							1320,
+							142,
+							1320,
+							142,
+							1344,
+							115,
+							1344
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 807,
+							"length": 3
+						}
+					},
+					{
+						"content": "your",
+						"boundingBox": [
+							147,
+							1320,
+							192,
+							1320,
+							192,
+							1345,
+							147,
+							1344
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 811,
+							"length": 4
+						}
+					},
+					{
+						"content": "party",
+						"boundingBox": [
+							197,
+							1320,
+							250,
+							1320,
+							250,
+							1345,
+							197,
+							1345
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 816,
+							"length": 5
+						}
+					},
+					{
+						"content": "supply",
+						"boundingBox": [
+							255,
+							1320,
+							321,
+							1320,
+							321,
+							1345,
+							255,
+							1345
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 822,
+							"length": 6
+						}
+					},
+					{
+						"content": "needs.",
+						"boundingBox": [
+							326,
+							1320,
+							397,
+							1320,
+							396,
+							1345,
+							326,
+							1345
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 829,
+							"length": 6
+						}
+					},
+					{
+						"content": "For",
+						"boundingBox": [
+							402,
+							1320,
+							437,
+							1319,
+							437,
+							1345,
+							401,
+							1345
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 836,
+							"length": 3
+						}
+					},
+					{
+						"content": "larger",
+						"boundingBox": [
+							442,
+							1319,
+							503,
+							1319,
+							503,
+							1345,
+							442,
+							1345
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 840,
+							"length": 6
+						}
+					},
+					{
+						"content": "events",
+						"boundingBox": [
+							508,
+							1319,
+							577,
+							1319,
+							577,
+							1345,
+							508,
+							1345
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 847,
+							"length": 6
+						}
+					},
+					{
+						"content": "and",
+						"boundingBox": [
+							582,
+							1319,
+							621,
+							1319,
+							620,
+							1345,
+							582,
+							1345
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 854,
+							"length": 3
+						}
+					},
+					{
+						"content": "rentals",
+						"boundingBox": [
+							625,
+							1319,
+							696,
+							1319,
+							696,
+							1344,
+							625,
+							1345
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 858,
+							"length": 7
+						}
+					},
+					{
+						"content": "please",
+						"boundingBox": [
+							701,
+							1319,
+							770,
+							1319,
+							769,
+							1344,
+							701,
+							1344
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 866,
+							"length": 6
+						}
+					},
+					{
+						"content": "visit",
+						"boundingBox": [
+							775,
+							1319,
+							817,
+							1319,
+							817,
+							1344,
+							775,
+							1344
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 873,
+							"length": 5
+						}
+					},
+					{
+						"content": "us",
+						"boundingBox": [
+							822,
+							1319,
+							846,
+							1319,
+							846,
+							1343,
+							822,
+							1343
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 879,
+							"length": 2
+						}
+					},
+					{
+						"content": "at",
+						"boundingBox": [
+							851,
+							1319,
+							872,
+							1319,
+							872,
+							1343,
+							851,
+							1343
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 882,
+							"length": 2
+						}
+					},
+					{
+						"content": "our",
+						"boundingBox": [
+							877,
+							1319,
+							912,
+							1319,
+							912,
+							1343,
+							876,
+							1343
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 885,
+							"length": 3
+						}
+					},
+					{
+						"content": "affiliates",
+						"boundingBox": [
+							917,
+							1319,
+							1001,
+							1319,
+							1001,
+							1342,
+							917,
+							1343
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 889,
+							"length": 10
+						}
+					},
+					{
+						"content": "webpage:",
+						"boundingBox": [
+							116,
+							1344,
+							217,
+							1345,
+							215,
+							1368,
+							116,
+							1367
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 900,
+							"length": 8
+						}
+					},
+					{
+						"content": "www.longshoreevents.org",
+						"boundingBox": [
+							312,
+							1365,
+							577,
+							1367,
+							577,
+							1390,
+							313,
+							1390
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 909,
+							"length": 23
+						}
+					}
+				],
+				"selectionMarks": [],
+				"lines": [
+					{
+						"content": "Purchase Order",
+						"boundingBox": [
+							89,
+							94,
+							239,
+							95,
+							239,
+							116,
+							89,
+							115
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Hero Limited",
+						"boundingBox": [
+							422,
+							140,
+							735,
+							139,
+							735,
+							183,
+							422,
+							184
+						],
+						"spans": [
+							{
+								"offset": 15,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Company Phone: 555-348-6512",
+						"boundingBox": [
+							110,
+							241,
+							361,
+							240,
+							361,
+							259,
+							110,
+							261
+						],
+						"spans": [
+							{
+								"offset": 28,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Website: www.herolimited.com",
+						"boundingBox": [
+							110,
+							269,
+							361,
+							269,
+							361,
+							288,
+							110,
+							288
+						],
+						"spans": [
+							{
+								"offset": 56,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Email:",
+						"boundingBox": [
+							110,
+							299,
+							161,
+							299,
+							161,
+							316,
+							110,
+							316
+						],
+						"spans": [
+							{
+								"offset": 85,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Purchase Order",
+						"boundingBox": [
+							761,
+							218,
+							1063,
+							218,
+							1063,
+							257,
+							761,
+							256
+						],
+						"spans": [
+							{
+								"offset": 92,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Dated As: 02/10/2020",
+						"boundingBox": [
+							700,
+							287,
+							901,
+							287,
+							901,
+							309,
+							700,
+							309
+						],
+						"spans": [
+							{
+								"offset": 107,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Purchase Order #: 9328424",
+						"boundingBox": [
+							699,
+							316,
+							952,
+							316,
+							952,
+							336,
+							699,
+							336
+						],
+						"spans": [
+							{
+								"offset": 128,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "accounts@herolimited.com",
+						"boundingBox": [
+							109,
+							328,
+							329,
+							328,
+							329,
+							346,
+							109,
+							347
+						],
+						"spans": [
+							{
+								"offset": 154,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "Shipped To",
+						"boundingBox": [
+							111,
+							375,
+							269,
+							375,
+							270,
+							407,
+							112,
+							409
+						],
+						"spans": [
+							{
+								"offset": 179,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Vendor Name: Tish Williams",
+						"boundingBox": [
+							107,
+							418,
+							352,
+							418,
+							352,
+							438,
+							107,
+							438
+						],
+						"spans": [
+							{
+								"offset": 190,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "Company Name: Tish's Wishes",
+						"boundingBox": [
+							106,
+							444,
+							372,
+							443,
+							373,
+							464,
+							107,
+							465
+						],
+						"spans": [
+							{
+								"offset": 217,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Address: 932 N Cantaloupe Road",
+						"boundingBox": [
+							107,
+							469,
+							389,
+							470,
+							389,
+							491,
+							107,
+							490
+						],
+						"spans": [
+							{
+								"offset": 245,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "Seattle, WA 38383",
+						"boundingBox": [
+							185,
+							496,
+							345,
+							495,
+							345,
+							515,
+							185,
+							516
+						],
+						"spans": [
+							{
+								"offset": 276,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Phone: 323-245-2943",
+						"boundingBox": [
+							517,
+							494,
+							704,
+							494,
+							704,
+							515,
+							517,
+							515
+						],
+						"spans": [
+							{
+								"offset": 294,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Shipped From",
+						"boundingBox": [
+							112,
+							537,
+							308,
+							537,
+							308,
+							570,
+							112,
+							570
+						],
+						"spans": [
+							{
+								"offset": 314,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Name: Larry Longshore",
+						"boundingBox": [
+							111,
+							584,
+							311,
+							584,
+							311,
+							606,
+							111,
+							606
+						],
+						"spans": [
+							{
+								"offset": 327,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "Company Name: Longshore Supply",
+						"boundingBox": [
+							111,
+							610,
+							410,
+							610,
+							410,
+							632,
+							111,
+							632
+						],
+						"spans": [
+							{
+								"offset": 349,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "Address: 382 N Cool Road",
+						"boundingBox": [
+							111,
+							634,
+							333,
+							635,
+							332,
+							655,
+							111,
+							654
+						],
+						"spans": [
+							{
+								"offset": 380,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "Bellevue WA 93939",
+						"boundingBox": [
+							192,
+							661,
+							358,
+							661,
+							358,
+							680,
+							192,
+							680
+						],
+						"spans": [
+							{
+								"offset": 405,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Phone: 938-242-4924",
+						"boundingBox": [
+							517,
+							661,
+							703,
+							661,
+							703,
+							680,
+							517,
+							680
+						],
+						"spans": [
+							{
+								"offset": 423,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Details",
+						"boundingBox": [
+							303,
+							719,
+							379,
+							718,
+							379,
+							739,
+							303,
+							740
+						],
+						"spans": [
+							{
+								"offset": 443,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Quantity",
+						"boundingBox": [
+							606,
+							717,
+							705,
+							719,
+							705,
+							743,
+							605,
+							742
+						],
+						"spans": [
+							{
+								"offset": 451,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Unit Price",
+						"boundingBox": [
+							759,
+							718,
+							870,
+							718,
+							870,
+							740,
+							759,
+							739
+						],
+						"spans": [
+							{
+								"offset": 460,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Total",
+						"boundingBox": [
+							945,
+							718,
+							1005,
+							718,
+							1005,
+							739,
+							945,
+							739
+						],
+						"spans": [
+							{
+								"offset": 471,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Party Favor purple",
+						"boundingBox": [
+							114,
+							750,
+							274,
+							751,
+							274,
+							772,
+							114,
+							771
+						],
+						"spans": [
+							{
+								"offset": 477,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							589,
+							751,
+							613,
+							752,
+							612,
+							768,
+							588,
+							767
+						],
+						"spans": [
+							{
+								"offset": 496,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							848,
+							751,
+							887,
+							751,
+							886,
+							768,
+							848,
+							768
+						],
+						"spans": [
+							{
+								"offset": 499,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							987,
+							749,
+							1047,
+							748,
+							1047,
+							770,
+							988,
+							771
+						],
+						"spans": [
+							{
+								"offset": 504,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Party Hat Blue",
+						"boundingBox": [
+							114,
+							779,
+							238,
+							779,
+							238,
+							798,
+							114,
+							798
+						],
+						"spans": [
+							{
+								"offset": 511,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							587,
+							779,
+							610,
+							780,
+							610,
+							796,
+							587,
+							796
+						],
+						"spans": [
+							{
+								"offset": 526,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							848,
+							779,
+							886,
+							779,
+							885,
+							796,
+							849,
+							796
+						],
+						"spans": [
+							{
+								"offset": 529,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							988,
+							778,
+							1046,
+							778,
+							1046,
+							796,
+							988,
+							796
+						],
+						"spans": [
+							{
+								"offset": 534,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Party Cloth White",
+						"boundingBox": [
+							115,
+							808,
+							267,
+							808,
+							267,
+							829,
+							115,
+							829
+						],
+						"spans": [
+							{
+								"offset": 541,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							589,
+							810,
+							611,
+							810,
+							610,
+							826,
+							589,
+							826
+						],
+						"spans": [
+							{
+								"offset": 559,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							848,
+							809,
+							886,
+							810,
+							885,
+							826,
+							849,
+							826
+						],
+						"spans": [
+							{
+								"offset": 562,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							988,
+							809,
+							1046,
+							809,
+							1046,
+							827,
+							988,
+							827
+						],
+						"spans": [
+							{
+								"offset": 567,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Party Maraca White",
+						"boundingBox": [
+							114,
+							838,
+							285,
+							838,
+							285,
+							859,
+							114,
+							859
+						],
+						"spans": [
+							{
+								"offset": 574,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "20",
+						"boundingBox": [
+							589,
+							839,
+							611,
+							839,
+							611,
+							855,
+							589,
+							856
+						],
+						"spans": [
+							{
+								"offset": 593,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							847,
+							839,
+							887,
+							839,
+							886,
+							855,
+							848,
+							856
+						],
+						"spans": [
+							{
+								"offset": 596,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "100.00",
+						"boundingBox": [
+							987,
+							839,
+							1046,
+							839,
+							1046,
+							856,
+							987,
+							857
+						],
+						"spans": [
+							{
+								"offset": 601,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Larry Longshore",
+						"boundingBox": [
+							304,
+							1150,
+							540,
+							1147,
+							541,
+							1174,
+							304,
+							1176
+						],
+						"spans": [
+							{
+								"offset": 608,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Larry Longshore",
+						"boundingBox": [
+							359,
+							1177,
+							493,
+							1177,
+							493,
+							1198,
+							359,
+							1198
+						],
+						"spans": [
+							{
+								"offset": 624,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Shipping Manager",
+						"boundingBox": [
+							358,
+							1201,
+							502,
+							1202,
+							501,
+							1223,
+							358,
+							1222
+						],
+						"spans": [
+							{
+								"offset": 640,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "Additional Notes:",
+						"boundingBox": [
+							115,
+							1232,
+							327,
+							1233,
+							327,
+							1258,
+							115,
+							1257
+						],
+						"spans": [
+							{
+								"offset": 657,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "SUBTOTAL",
+						"boundingBox": [
+							782,
+							1080,
+							886,
+							1080,
+							886,
+							1098,
+							782,
+							1098
+						],
+						"spans": [
+							{
+								"offset": 675,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "$400.00",
+						"boundingBox": [
+							975,
+							1076,
+							1047,
+							1075,
+							1047,
+							1098,
+							975,
+							1099
+						],
+						"spans": [
+							{
+								"offset": 684,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "TAX",
+						"boundingBox": [
+							846,
+							1111,
+							886,
+							1110,
+							885,
+							1128,
+							847,
+							1128
+						],
+						"spans": [
+							{
+								"offset": 692,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "$14.00",
+						"boundingBox": [
+							987,
+							1108,
+							1046,
+							1107,
+							1046,
+							1127,
+							987,
+							1128
+						],
+						"spans": [
+							{
+								"offset": 696,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"boundingBox": [
+							822,
+							1148,
+							885,
+							1147,
+							885,
+							1166,
+							823,
+							1166
+						],
+						"spans": [
+							{
+								"offset": 703,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "$414.00",
+						"boundingBox": [
+							976,
+							1145,
+							1046,
+							1145,
+							1047,
+							1164,
+							976,
+							1165
+						],
+						"spans": [
+							{
+								"offset": 709,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Unpack Carefully. Enjoy. Longshore Supply wishes you a happy party and is always here for",
+						"boundingBox": [
+							116,
+							1287,
+							1006,
+							1287,
+							1006,
+							1313,
+							116,
+							1313
+						],
+						"spans": [
+							{
+								"offset": 717,
+								"length": 89
+							}
+						]
+					},
+					{
+						"content": "for your party supply needs. For larger events and rentals please visit us at our affiliates",
+						"boundingBox": [
+							115,
+							1319,
+							1002,
+							1319,
+							1002,
+							1343,
+							115,
+							1345
+						],
+						"spans": [
+							{
+								"offset": 807,
+								"length": 92
+							}
+						]
+					},
+					{
+						"content": "webpage:",
+						"boundingBox": [
+							115,
+							1343,
+							217,
+							1344,
+							216,
+							1368,
+							114,
+							1367
+						],
+						"spans": [
+							{
+								"offset": 900,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "www.longshoreevents.org",
+						"boundingBox": [
+							311,
+							1365,
+							576,
+							1366,
+							576,
+							1391,
+							311,
+							1390
+						],
+						"spans": [
+							{
+								"offset": 909,
+								"length": 23
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 932
+					}
+				]
+			}
+		],
+		"tables": [
+			{
+				"rowCount": 5,
+				"columnCount": 4,
+				"cells": [
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Details",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									105,
+									712,
+									578,
+									712,
+									578,
+									746,
+									105,
+									746
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 443,
+								"length": 7
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Quantity",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									712,
+									733,
+									712,
+									733,
+									746,
+									578,
+									746
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 451,
+								"length": 8
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Unit Price",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									733,
+									712,
+									895,
+									712,
+									895,
+									746,
+									733,
+									746
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 460,
+								"length": 10
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Total",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									712,
+									1057,
+									712,
+									1057,
+									746,
+									895,
+									746
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 471,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Party Favor purple",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									105,
+									746,
+									578,
+									746,
+									578,
+									774,
+									105,
+									774
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 477,
+								"length": 18
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "20",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									746,
+									733,
+									746,
+									733,
+									774,
+									578,
+									774
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 496,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "5.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									733,
+									746,
+									895,
+									746,
+									895,
+									774,
+									733,
+									774
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 499,
+								"length": 4
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "100.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									746,
+									1057,
+									746,
+									1057,
+									774,
+									895,
+									774
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 504,
+								"length": 6
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Party Hat Blue",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									105,
+									774,
+									578,
+									774,
+									578,
+									804,
+									104,
+									804
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 511,
+								"length": 14
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "20",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									774,
+									733,
+									774,
+									733,
+									804,
+									578,
+									804
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 526,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "5.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									733,
+									774,
+									895,
+									774,
+									895,
+									804,
+									733,
+									804
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 529,
+								"length": 4
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "100.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									774,
+									1057,
+									774,
+									1057,
+									804,
+									895,
+									804
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 534,
+								"length": 6
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Party Cloth White",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									804,
+									578,
+									804,
+									578,
+									834,
+									104,
+									834
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 541,
+								"length": 17
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "20",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									804,
+									733,
+									804,
+									733,
+									834,
+									578,
+									834
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 559,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "5.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									733,
+									804,
+									895,
+									804,
+									895,
+									834,
+									733,
+									834
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 562,
+								"length": 4
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "100.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									804,
+									1057,
+									804,
+									1057,
+									834,
+									895,
+									834
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 567,
+								"length": 6
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Party Maraca White",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									834,
+									578,
+									834,
+									578,
+									864,
+									104,
+									864
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 574,
+								"length": 18
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "20",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									834,
+									733,
+									834,
+									733,
+									864,
+									578,
+									864
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 593,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "5.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									733,
+									834,
+									895,
+									834,
+									895,
+									864,
+									733,
+									864
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 596,
+								"length": 4
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "100.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									834,
+									1057,
+									834,
+									1057,
+									864,
+									895,
+									864
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 601,
+								"length": 6
+							}
+						]
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"boundingBox": [
+							96,
+							713,
+							1065,
+							713,
+							1065,
+							866,
+							96,
+							865
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 443,
+						"length": 164
+					}
+				]
+			},
+			{
+				"rowCount": 3,
+				"columnCount": 2,
+				"cells": [
+					{
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "SUBTOTAL",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									729,
+									1073,
+									895,
+									1073,
+									895,
+									1104,
+									730,
+									1105
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 675,
+								"length": 8
+							}
+						]
+					},
+					{
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "$400.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									1073,
+									1055,
+									1073,
+									1056,
+									1104,
+									895,
+									1104
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 684,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "TAX",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									730,
+									1105,
+									895,
+									1104,
+									895,
+									1138,
+									731,
+									1138
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 692,
+								"length": 3
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "$14.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									1104,
+									1056,
+									1104,
+									1056,
+									1138,
+									895,
+									1138
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 696,
+								"length": 6
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "TOTAL",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									731,
+									1138,
+									895,
+									1138,
+									895,
+									1172,
+									731,
+									1172
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 703,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "$414.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									1138,
+									1056,
+									1138,
+									1056,
+									1173,
+									895,
+									1172
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 709,
+								"length": 7
+							}
+						]
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"boundingBox": [
+							731,
+							1074,
+							1059,
+							1074,
+							1059,
+							1173,
+							731,
+							1174
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 675,
+						"length": 41
+					}
+				]
+			}
+		],
+		"styles": [
+			{
+				"isHandwritten": true,
+				"confidence": 1,
+				"spans": [
+					{
+						"offset": 608,
+						"length": 15
+					}
+				]
+			}
+		]
+	}
+}

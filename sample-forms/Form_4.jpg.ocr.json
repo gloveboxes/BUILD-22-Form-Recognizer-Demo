@@ -1,0 +1,4388 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2022-05-25T02:17:25Z",
+	"lastUpdatedDateTime": "2022-05-25T02:17:28Z",
+	"analyzeResult": {
+		"apiVersion": "2022-01-30-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "textElements",
+		"content": "Purchase Order\nHero Limited\nCompany Phone: 555-348-6512\nWebsite: www.herolimited.com\nEmail: accounts@herolimited.com\n49823 Major Ave\nCheer, MS, 38601\nShipped To:\nVendor Name: Seth Stanley\nCompany Name: Yoga for You\nAddress: 343 E Winter Road\nSeattle, WA 93849 Phone: 234-986-6454\nShipped From:\nName: Josh Granger\nCompany Name: Granger Supply\nAddress: 922 N Ebby Lane\nFt Lauderdale, FL Phone: 932-294-2958\nPurchase Order\nDated As: 04/04/2020\nPurchase Order #: 3929423\nDetails\nQuantity\nUnit Price\nTotal\nLong Yoga Mat\n50\n50.00\n2500.00\nShort Yoga Man\n50\n50.00\n2500.00\nTowel White\n100\n10.00\n1000.00\nDecal Stickers\n50\n5.00\n250.00\nWater Bottle Blue\n50\n10.00\n500.00\nJosh Granger\nJosh Granger\nSupply Manger\nAdditional Notes:\nSUBTOTAL\n$6750.00\nTAX\n$600.00\nTOTAL\n$7350.00\nEnjoy. Namaste. If you have any issues with your Yoga supplies please contact us directly\nvia email or at 250-209-1294 during business hours.",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 1159,
+				"height": 1492,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "Purchase",
+						"boundingBox": [
+							91,
+							92,
+							176,
+							93,
+							176,
+							113,
+							91,
+							113
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 0,
+							"length": 8
+						}
+					},
+					{
+						"content": "Order",
+						"boundingBox": [
+							181,
+							93,
+							237,
+							93,
+							237,
+							114,
+							180,
+							113
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 9,
+							"length": 5
+						}
+					},
+					{
+						"content": "Hero",
+						"boundingBox": [
+							423,
+							139,
+							527,
+							138,
+							526,
+							182,
+							422,
+							181
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 15,
+							"length": 4
+						}
+					},
+					{
+						"content": "Limited",
+						"boundingBox": [
+							548,
+							137,
+							725,
+							138,
+							725,
+							181,
+							548,
+							182
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 20,
+							"length": 7
+						}
+					},
+					{
+						"content": "Company",
+						"boundingBox": [
+							110,
+							240,
+							185,
+							238,
+							185,
+							258,
+							111,
+							258
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 28,
+							"length": 7
+						}
+					},
+					{
+						"content": "Phone:",
+						"boundingBox": [
+							188,
+							238,
+							245,
+							238,
+							245,
+							257,
+							188,
+							258
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 36,
+							"length": 6
+						}
+					},
+					{
+						"content": "555-348-6512",
+						"boundingBox": [
+							249,
+							238,
+							359,
+							239,
+							359,
+							256,
+							249,
+							257
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 43,
+							"length": 12
+						}
+					},
+					{
+						"content": "Website:",
+						"boundingBox": [
+							111,
+							262,
+							181,
+							261,
+							182,
+							280,
+							111,
+							280
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 56,
+							"length": 8
+						}
+					},
+					{
+						"content": "www.herolimited.com",
+						"boundingBox": [
+							185,
+							261,
+							354,
+							262,
+							354,
+							280,
+							185,
+							280
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 65,
+							"length": 19
+						}
+					},
+					{
+						"content": "Email:",
+						"boundingBox": [
+							110,
+							285,
+							160,
+							285,
+							160,
+							303,
+							111,
+							303
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 85,
+							"length": 6
+						}
+					},
+					{
+						"content": "accounts@herolimited.com",
+						"boundingBox": [
+							163,
+							285,
+							373,
+							286,
+							372,
+							303,
+							164,
+							303
+						],
+						"confidence": 0.968,
+						"span": {
+							"offset": 92,
+							"length": 24
+						}
+					},
+					{
+						"content": "49823",
+						"boundingBox": [
+							111,
+							308,
+							158,
+							308,
+							158,
+							327,
+							112,
+							326
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 117,
+							"length": 5
+						}
+					},
+					{
+						"content": "Major",
+						"boundingBox": [
+							162,
+							308,
+							210,
+							309,
+							210,
+							327,
+							162,
+							327
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 123,
+							"length": 5
+						}
+					},
+					{
+						"content": "Ave",
+						"boundingBox": [
+							214,
+							309,
+							244,
+							309,
+							244,
+							327,
+							213,
+							327
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 129,
+							"length": 3
+						}
+					},
+					{
+						"content": "Cheer,",
+						"boundingBox": [
+							110,
+							330,
+							161,
+							331,
+							161,
+							349,
+							110,
+							349
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 133,
+							"length": 6
+						}
+					},
+					{
+						"content": "MS,",
+						"boundingBox": [
+							164,
+							331,
+							196,
+							331,
+							196,
+							349,
+							164,
+							349
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 140,
+							"length": 3
+						}
+					},
+					{
+						"content": "38601",
+						"boundingBox": [
+							199,
+							331,
+							248,
+							330,
+							248,
+							349,
+							199,
+							349
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 144,
+							"length": 5
+						}
+					},
+					{
+						"content": "Shipped",
+						"boundingBox": [
+							112,
+							373,
+							221,
+							373,
+							221,
+							403,
+							113,
+							404
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 150,
+							"length": 7
+						}
+					},
+					{
+						"content": "To:",
+						"boundingBox": [
+							234,
+							373,
+							281,
+							373,
+							280,
+							403,
+							234,
+							403
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 158,
+							"length": 3
+						}
+					},
+					{
+						"content": "Vendor",
+						"boundingBox": [
+							107,
+							416,
+							171,
+							416,
+							171,
+							436,
+							108,
+							435
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 162,
+							"length": 6
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							175,
+							416,
+							234,
+							415,
+							234,
+							436,
+							175,
+							436
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 169,
+							"length": 5
+						}
+					},
+					{
+						"content": "Seth",
+						"boundingBox": [
+							238,
+							415,
+							276,
+							416,
+							276,
+							437,
+							238,
+							436
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 175,
+							"length": 4
+						}
+					},
+					{
+						"content": "Stanley",
+						"boundingBox": [
+							281,
+							416,
+							344,
+							417,
+							344,
+							437,
+							280,
+							437
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 180,
+							"length": 7
+						}
+					},
+					{
+						"content": "Company",
+						"boundingBox": [
+							108,
+							442,
+							189,
+							442,
+							189,
+							463,
+							107,
+							462
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 188,
+							"length": 7
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							193,
+							442,
+							252,
+							442,
+							252,
+							463,
+							193,
+							463
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 196,
+							"length": 5
+						}
+					},
+					{
+						"content": "Yoga",
+						"boundingBox": [
+							256,
+							442,
+							297,
+							442,
+							297,
+							463,
+							256,
+							463
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 202,
+							"length": 4
+						}
+					},
+					{
+						"content": "for",
+						"boundingBox": [
+							301,
+							442,
+							327,
+							442,
+							327,
+							462,
+							301,
+							463
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 207,
+							"length": 3
+						}
+					},
+					{
+						"content": "You",
+						"boundingBox": [
+							331,
+							442,
+							363,
+							442,
+							363,
+							462,
+							331,
+							462
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 211,
+							"length": 3
+						}
+					},
+					{
+						"content": "Address:",
+						"boundingBox": [
+							108,
+							466,
+							182,
+							467,
+							181,
+							487,
+							108,
+							487
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 215,
+							"length": 8
+						}
+					},
+					{
+						"content": "343",
+						"boundingBox": [
+							186,
+							467,
+							218,
+							467,
+							218,
+							487,
+							185,
+							487
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 224,
+							"length": 3
+						}
+					},
+					{
+						"content": "E",
+						"boundingBox": [
+							222,
+							467,
+							233,
+							467,
+							232,
+							487,
+							222,
+							487
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 228,
+							"length": 1
+						}
+					},
+					{
+						"content": "Winter",
+						"boundingBox": [
+							236,
+							467,
+							296,
+							467,
+							296,
+							487,
+							236,
+							487
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 230,
+							"length": 6
+						}
+					},
+					{
+						"content": "Road",
+						"boundingBox": [
+							300,
+							467,
+							344,
+							467,
+							343,
+							487,
+							300,
+							487
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 237,
+							"length": 4
+						}
+					},
+					{
+						"content": "Seattle,",
+						"boundingBox": [
+							187,
+							493,
+							251,
+							493,
+							252,
+							513,
+							188,
+							513
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 242,
+							"length": 8
+						}
+					},
+					{
+						"content": "WA",
+						"boundingBox": [
+							255,
+							493,
+							284,
+							493,
+							285,
+							513,
+							255,
+							513
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 251,
+							"length": 2
+						}
+					},
+					{
+						"content": "93849",
+						"boundingBox": [
+							290,
+							493,
+							343,
+							493,
+							343,
+							513,
+							291,
+							513
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 254,
+							"length": 5
+						}
+					},
+					{
+						"content": "Phone:",
+						"boundingBox": [
+							349,
+							493,
+							413,
+							492,
+							413,
+							513,
+							349,
+							513
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 260,
+							"length": 6
+						}
+					},
+					{
+						"content": "234-986-6454",
+						"boundingBox": [
+							417,
+							493,
+							536,
+							493,
+							536,
+							512,
+							417,
+							513
+						],
+						"confidence": 0.968,
+						"span": {
+							"offset": 267,
+							"length": 12
+						}
+					},
+					{
+						"content": "Shipped",
+						"boundingBox": [
+							111,
+							535,
+							222,
+							536,
+							222,
+							567,
+							112,
+							566
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 280,
+							"length": 7
+						}
+					},
+					{
+						"content": "From:",
+						"boundingBox": [
+							231,
+							536,
+							319,
+							536,
+							318,
+							563,
+							231,
+							567
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 288,
+							"length": 5
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							111,
+							582,
+							167,
+							582,
+							168,
+							603,
+							112,
+							601
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 294,
+							"length": 5
+						}
+					},
+					{
+						"content": "Josh",
+						"boundingBox": [
+							171,
+							582,
+							208,
+							582,
+							209,
+							603,
+							172,
+							603
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 300,
+							"length": 4
+						}
+					},
+					{
+						"content": "Granger",
+						"boundingBox": [
+							212,
+							582,
+							285,
+							584,
+							285,
+							604,
+							213,
+							604
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 305,
+							"length": 7
+						}
+					},
+					{
+						"content": "Company",
+						"boundingBox": [
+							110,
+							607,
+							191,
+							607,
+							191,
+							630,
+							110,
+							630
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 313,
+							"length": 7
+						}
+					},
+					{
+						"content": "Name:",
+						"boundingBox": [
+							195,
+							607,
+							254,
+							607,
+							254,
+							631,
+							195,
+							630
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 321,
+							"length": 5
+						}
+					},
+					{
+						"content": "Granger",
+						"boundingBox": [
+							258,
+							607,
+							328,
+							607,
+							327,
+							631,
+							258,
+							631
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 327,
+							"length": 7
+						}
+					},
+					{
+						"content": "Supply",
+						"boundingBox": [
+							332,
+							607,
+							395,
+							607,
+							394,
+							631,
+							332,
+							631
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 335,
+							"length": 6
+						}
+					},
+					{
+						"content": "Address:",
+						"boundingBox": [
+							111,
+							632,
+							184,
+							632,
+							184,
+							653,
+							111,
+							651
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 342,
+							"length": 8
+						}
+					},
+					{
+						"content": "922",
+						"boundingBox": [
+							188,
+							632,
+							221,
+							632,
+							220,
+							654,
+							188,
+							653
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 351,
+							"length": 3
+						}
+					},
+					{
+						"content": "N",
+						"boundingBox": [
+							225,
+							632,
+							236,
+							632,
+							236,
+							654,
+							224,
+							654
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 355,
+							"length": 1
+						}
+					},
+					{
+						"content": "Ebby",
+						"boundingBox": [
+							244,
+							632,
+							286,
+							633,
+							285,
+							654,
+							243,
+							654
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 357,
+							"length": 4
+						}
+					},
+					{
+						"content": "Lane",
+						"boundingBox": [
+							290,
+							633,
+							330,
+							633,
+							329,
+							653,
+							289,
+							654
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 362,
+							"length": 4
+						}
+					},
+					{
+						"content": "Ft",
+						"boundingBox": [
+							187,
+							658,
+							202,
+							658,
+							203,
+							679,
+							188,
+							679
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 367,
+							"length": 2
+						}
+					},
+					{
+						"content": "Lauderdale,",
+						"boundingBox": [
+							206,
+							658,
+							307,
+							658,
+							307,
+							679,
+							207,
+							679
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 370,
+							"length": 11
+						}
+					},
+					{
+						"content": "FL",
+						"boundingBox": [
+							311,
+							658,
+							331,
+							658,
+							331,
+							679,
+							311,
+							679
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 382,
+							"length": 2
+						}
+					},
+					{
+						"content": "Phone:",
+						"boundingBox": [
+							346,
+							658,
+							411,
+							658,
+							411,
+							678,
+							346,
+							679
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 385,
+							"length": 6
+						}
+					},
+					{
+						"content": "932-294-2958",
+						"boundingBox": [
+							415,
+							658,
+							534,
+							658,
+							533,
+							678,
+							415,
+							678
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 392,
+							"length": 12
+						}
+					},
+					{
+						"content": "Purchase",
+						"boundingBox": [
+							762,
+							217,
+							935,
+							216,
+							935,
+							253,
+							764,
+							251
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 405,
+							"length": 8
+						}
+					},
+					{
+						"content": "Order",
+						"boundingBox": [
+							948,
+							216,
+							1062,
+							215,
+							1061,
+							253,
+							948,
+							253
+						],
+						"confidence": 0.981,
+						"span": {
+							"offset": 414,
+							"length": 5
+						}
+					},
+					{
+						"content": "Dated",
+						"boundingBox": [
+							700,
+							285,
+							755,
+							285,
+							755,
+							306,
+							701,
+							306
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 420,
+							"length": 5
+						}
+					},
+					{
+						"content": "As:",
+						"boundingBox": [
+							761,
+							285,
+							791,
+							285,
+							791,
+							306,
+							761,
+							306
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 426,
+							"length": 3
+						}
+					},
+					{
+						"content": "04/04/2020",
+						"boundingBox": [
+							795,
+							285,
+							897,
+							285,
+							897,
+							307,
+							795,
+							306
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 430,
+							"length": 10
+						}
+					},
+					{
+						"content": "Purchase",
+						"boundingBox": [
+							700,
+							314,
+							785,
+							314,
+							786,
+							334,
+							700,
+							333
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 441,
+							"length": 8
+						}
+					},
+					{
+						"content": "Order",
+						"boundingBox": [
+							790,
+							314,
+							847,
+							314,
+							847,
+							334,
+							790,
+							334
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 450,
+							"length": 5
+						}
+					},
+					{
+						"content": "#:",
+						"boundingBox": [
+							851,
+							314,
+							871,
+							314,
+							871,
+							334,
+							851,
+							334
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 456,
+							"length": 2
+						}
+					},
+					{
+						"content": "3929423",
+						"boundingBox": [
+							875,
+							314,
+							950,
+							314,
+							949,
+							334,
+							875,
+							334
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 459,
+							"length": 7
+						}
+					},
+					{
+						"content": "Details",
+						"boundingBox": [
+							303,
+							716,
+							380,
+							715,
+							380,
+							738,
+							303,
+							738
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 467,
+							"length": 7
+						}
+					},
+					{
+						"content": "Quantity",
+						"boundingBox": [
+							606,
+							716,
+							705,
+							717,
+							705,
+							741,
+							606,
+							741
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 475,
+							"length": 8
+						}
+					},
+					{
+						"content": "Unit",
+						"boundingBox": [
+							760,
+							716,
+							806,
+							716,
+							806,
+							738,
+							760,
+							738
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 484,
+							"length": 4
+						}
+					},
+					{
+						"content": "Price",
+						"boundingBox": [
+							811,
+							716,
+							864,
+							716,
+							864,
+							738,
+							811,
+							738
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 489,
+							"length": 5
+						}
+					},
+					{
+						"content": "Total",
+						"boundingBox": [
+							948,
+							716,
+							1003,
+							716,
+							1003,
+							737,
+							948,
+							737
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 495,
+							"length": 5
+						}
+					},
+					{
+						"content": "Long",
+						"boundingBox": [
+							114,
+							747,
+							155,
+							747,
+							155,
+							770,
+							115,
+							771
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 501,
+							"length": 4
+						}
+					},
+					{
+						"content": "Yoga",
+						"boundingBox": [
+							159,
+							747,
+							200,
+							747,
+							199,
+							770,
+							160,
+							770
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 506,
+							"length": 4
+						}
+					},
+					{
+						"content": "Mat",
+						"boundingBox": [
+							204,
+							747,
+							243,
+							748,
+							243,
+							770,
+							204,
+							770
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 511,
+							"length": 3
+						}
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							589,
+							747,
+							607,
+							747,
+							607,
+							765,
+							588,
+							764
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 515,
+							"length": 2
+						}
+					},
+					{
+						"content": "50.00",
+						"boundingBox": [
+							838,
+							748,
+							883,
+							748,
+							883,
+							765,
+							838,
+							765
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 518,
+							"length": 5
+						}
+					},
+					{
+						"content": "2500.00",
+						"boundingBox": [
+							978,
+							748,
+							1044,
+							748,
+							1044,
+							766,
+							978,
+							766
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 524,
+							"length": 7
+						}
+					},
+					{
+						"content": "Short",
+						"boundingBox": [
+							115,
+							775,
+							159,
+							776,
+							160,
+							797,
+							116,
+							796
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 532,
+							"length": 5
+						}
+					},
+					{
+						"content": "Yoga",
+						"boundingBox": [
+							164,
+							776,
+							206,
+							776,
+							206,
+							797,
+							164,
+							797
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 538,
+							"length": 4
+						}
+					},
+					{
+						"content": "Man",
+						"boundingBox": [
+							210,
+							776,
+							249,
+							777,
+							249,
+							796,
+							210,
+							797
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 543,
+							"length": 3
+						}
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							590,
+							776,
+							607,
+							776,
+							607,
+							793,
+							590,
+							793
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 547,
+							"length": 2
+						}
+					},
+					{
+						"content": "50.00",
+						"boundingBox": [
+							838,
+							776,
+							884,
+							776,
+							884,
+							793,
+							838,
+							793
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 550,
+							"length": 5
+						}
+					},
+					{
+						"content": "2500.00",
+						"boundingBox": [
+							978,
+							776,
+							1043,
+							776,
+							1044,
+							794,
+							978,
+							794
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 556,
+							"length": 7
+						}
+					},
+					{
+						"content": "Towel",
+						"boundingBox": [
+							115,
+							806,
+							166,
+							806,
+							166,
+							825,
+							115,
+							825
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 564,
+							"length": 5
+						}
+					},
+					{
+						"content": "White",
+						"boundingBox": [
+							170,
+							806,
+							223,
+							806,
+							223,
+							825,
+							170,
+							825
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 570,
+							"length": 5
+						}
+					},
+					{
+						"content": "100",
+						"boundingBox": [
+							590,
+							807,
+							618,
+							807,
+							618,
+							823,
+							590,
+							823
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 576,
+							"length": 3
+						}
+					},
+					{
+						"content": "10.00",
+						"boundingBox": [
+							838,
+							807,
+							883,
+							807,
+							883,
+							824,
+							839,
+							824
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 580,
+							"length": 5
+						}
+					},
+					{
+						"content": "1000.00",
+						"boundingBox": [
+							978,
+							806,
+							1045,
+							806,
+							1044,
+							824,
+							979,
+							824
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 586,
+							"length": 7
+						}
+					},
+					{
+						"content": "Decal",
+						"boundingBox": [
+							115,
+							835,
+							161,
+							836,
+							161,
+							854,
+							115,
+							854
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 594,
+							"length": 5
+						}
+					},
+					{
+						"content": "Stickers",
+						"boundingBox": [
+							165,
+							836,
+							233,
+							836,
+							233,
+							855,
+							165,
+							854
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 600,
+							"length": 8
+						}
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							590,
+							836,
+							606,
+							836,
+							606,
+							852,
+							589,
+							851
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 609,
+							"length": 2
+						}
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							848,
+							833,
+							885,
+							833,
+							886,
+							855,
+							848,
+							855
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 612,
+							"length": 4
+						}
+					},
+					{
+						"content": "250.00",
+						"boundingBox": [
+							988,
+							836,
+							1044,
+							836,
+							1044,
+							853,
+							988,
+							853
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 617,
+							"length": 6
+						}
+					},
+					{
+						"content": "Water",
+						"boundingBox": [
+							116,
+							866,
+							169,
+							866,
+							168,
+							885,
+							116,
+							884
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 624,
+							"length": 5
+						}
+					},
+					{
+						"content": "Bottle",
+						"boundingBox": [
+							172,
+							867,
+							224,
+							866,
+							224,
+							885,
+							172,
+							885
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 630,
+							"length": 6
+						}
+					},
+					{
+						"content": "Blue",
+						"boundingBox": [
+							228,
+							866,
+							266,
+							866,
+							266,
+							885,
+							228,
+							885
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 637,
+							"length": 4
+						}
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							589,
+							866,
+							607,
+							866,
+							607,
+							883,
+							588,
+							882
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 642,
+							"length": 2
+						}
+					},
+					{
+						"content": "10.00",
+						"boundingBox": [
+							839,
+							866,
+							883,
+							866,
+							883,
+							883,
+							839,
+							883
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 645,
+							"length": 5
+						}
+					},
+					{
+						"content": "500.00",
+						"boundingBox": [
+							987,
+							866,
+							1044,
+							866,
+							1044,
+							884,
+							987,
+							884
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 651,
+							"length": 6
+						}
+					},
+					{
+						"content": "Josh",
+						"boundingBox": [
+							288,
+							1141,
+							332,
+							1142,
+							332,
+							1166,
+							288,
+							1166
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 658,
+							"length": 4
+						}
+					},
+					{
+						"content": "Granger",
+						"boundingBox": [
+							339,
+							1143,
+							427,
+							1145,
+							427,
+							1167,
+							339,
+							1167
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 663,
+							"length": 7
+						}
+					},
+					{
+						"content": "Josh",
+						"boundingBox": [
+							379,
+							1176,
+							412,
+							1177,
+							411,
+							1195,
+							378,
+							1195
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 671,
+							"length": 4
+						}
+					},
+					{
+						"content": "Granger",
+						"boundingBox": [
+							416,
+							1177,
+							481,
+							1178,
+							480,
+							1196,
+							415,
+							1195
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 676,
+							"length": 7
+						}
+					},
+					{
+						"content": "Supply",
+						"boundingBox": [
+							371,
+							1199,
+							421,
+							1200,
+							421,
+							1220,
+							371,
+							1219
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 684,
+							"length": 6
+						}
+					},
+					{
+						"content": "Manger",
+						"boundingBox": [
+							425,
+							1200,
+							489,
+							1201,
+							489,
+							1220,
+							425,
+							1220
+						],
+						"confidence": 1,
+						"span": {
+							"offset": 691,
+							"length": 6
+						}
+					},
+					{
+						"content": "Additional",
+						"boundingBox": [
+							116,
+							1229,
+							240,
+							1230,
+							240,
+							1255,
+							117,
+							1254
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 698,
+							"length": 10
+						}
+					},
+					{
+						"content": "Notes:",
+						"boundingBox": [
+							245,
+							1230,
+							326,
+							1231,
+							326,
+							1254,
+							245,
+							1255
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 709,
+							"length": 6
+						}
+					},
+					{
+						"content": "SUBTOTAL",
+						"boundingBox": [
+							785,
+							1078,
+							885,
+							1078,
+							885,
+							1096,
+							785,
+							1096
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 716,
+							"length": 8
+						}
+					},
+					{
+						"content": "$6750.00",
+						"boundingBox": [
+							964,
+							1075,
+							1046,
+							1075,
+							1045,
+							1095,
+							965,
+							1096
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 725,
+							"length": 8
+						}
+					},
+					{
+						"content": "TAX",
+						"boundingBox": [
+							847,
+							1104,
+							883,
+							1104,
+							883,
+							1126,
+							847,
+							1126
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 734,
+							"length": 3
+						}
+					},
+					{
+						"content": "$600.00",
+						"boundingBox": [
+							977,
+							1105,
+							1046,
+							1104,
+							1045,
+							1125,
+							977,
+							1126
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 738,
+							"length": 7
+						}
+					},
+					{
+						"content": "TOTAL",
+						"boundingBox": [
+							824,
+							1146,
+							885,
+							1146,
+							884,
+							1164,
+							824,
+							1164
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 746,
+							"length": 5
+						}
+					},
+					{
+						"content": "$7350.00",
+						"boundingBox": [
+							966,
+							1143,
+							1045,
+							1143,
+							1045,
+							1163,
+							966,
+							1163
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 752,
+							"length": 8
+						}
+					},
+					{
+						"content": "Enjoy.",
+						"boundingBox": [
+							116,
+							1286,
+							167,
+							1286,
+							167,
+							1309,
+							116,
+							1308
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 761,
+							"length": 6
+						}
+					},
+					{
+						"content": "Namaste.",
+						"boundingBox": [
+							172,
+							1286,
+							270,
+							1285,
+							270,
+							1310,
+							172,
+							1309
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 768,
+							"length": 8
+						}
+					},
+					{
+						"content": "If",
+						"boundingBox": [
+							275,
+							1285,
+							290,
+							1285,
+							289,
+							1310,
+							275,
+							1310
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 777,
+							"length": 2
+						}
+					},
+					{
+						"content": "you",
+						"boundingBox": [
+							295,
+							1285,
+							332,
+							1285,
+							332,
+							1311,
+							294,
+							1310
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 780,
+							"length": 3
+						}
+					},
+					{
+						"content": "have",
+						"boundingBox": [
+							337,
+							1285,
+							388,
+							1285,
+							388,
+							1311,
+							337,
+							1311
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 784,
+							"length": 4
+						}
+					},
+					{
+						"content": "any",
+						"boundingBox": [
+							394,
+							1285,
+							432,
+							1285,
+							431,
+							1311,
+							394,
+							1311
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 789,
+							"length": 3
+						}
+					},
+					{
+						"content": "issues",
+						"boundingBox": [
+							436,
+							1285,
+							503,
+							1285,
+							503,
+							1312,
+							436,
+							1311
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 793,
+							"length": 6
+						}
+					},
+					{
+						"content": "with",
+						"boundingBox": [
+							508,
+							1285,
+							551,
+							1285,
+							550,
+							1312,
+							508,
+							1312
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 800,
+							"length": 4
+						}
+					},
+					{
+						"content": "your",
+						"boundingBox": [
+							555,
+							1285,
+							603,
+							1285,
+							602,
+							1312,
+							555,
+							1312
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 805,
+							"length": 4
+						}
+					},
+					{
+						"content": "Yoga",
+						"boundingBox": [
+							608,
+							1285,
+							661,
+							1286,
+							661,
+							1312,
+							607,
+							1312
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 810,
+							"length": 4
+						}
+					},
+					{
+						"content": "supplies",
+						"boundingBox": [
+							666,
+							1286,
+							751,
+							1286,
+							750,
+							1312,
+							666,
+							1312
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 815,
+							"length": 8
+						}
+					},
+					{
+						"content": "please",
+						"boundingBox": [
+							756,
+							1286,
+							824,
+							1286,
+							824,
+							1311,
+							755,
+							1312
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 824,
+							"length": 6
+						}
+					},
+					{
+						"content": "contact",
+						"boundingBox": [
+							829,
+							1286,
+							906,
+							1286,
+							905,
+							1311,
+							829,
+							1311
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 831,
+							"length": 7
+						}
+					},
+					{
+						"content": "us",
+						"boundingBox": [
+							911,
+							1286,
+							935,
+							1287,
+							934,
+							1311,
+							910,
+							1311
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 839,
+							"length": 2
+						}
+					},
+					{
+						"content": "directly",
+						"boundingBox": [
+							940,
+							1287,
+							1016,
+							1287,
+							1015,
+							1310,
+							939,
+							1311
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 842,
+							"length": 8
+						}
+					},
+					{
+						"content": "via",
+						"boundingBox": [
+							112,
+							1320,
+							139,
+							1320,
+							139,
+							1341,
+							112,
+							1341
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 851,
+							"length": 3
+						}
+					},
+					{
+						"content": "email",
+						"boundingBox": [
+							144,
+							1320,
+							200,
+							1319,
+							200,
+							1342,
+							144,
+							1341
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 855,
+							"length": 5
+						}
+					},
+					{
+						"content": "or",
+						"boundingBox": [
+							205,
+							1319,
+							228,
+							1319,
+							228,
+							1342,
+							205,
+							1342
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 861,
+							"length": 2
+						}
+					},
+					{
+						"content": "at",
+						"boundingBox": [
+							233,
+							1319,
+							255,
+							1318,
+							255,
+							1343,
+							233,
+							1342
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 864,
+							"length": 2
+						}
+					},
+					{
+						"content": "250-209-1294",
+						"boundingBox": [
+							259,
+							1318,
+							402,
+							1318,
+							402,
+							1344,
+							259,
+							1343
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 867,
+							"length": 12
+						}
+					},
+					{
+						"content": "during",
+						"boundingBox": [
+							407,
+							1318,
+							472,
+							1318,
+							471,
+							1344,
+							406,
+							1344
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 880,
+							"length": 6
+						}
+					},
+					{
+						"content": "business",
+						"boundingBox": [
+							477,
+							1318,
+							568,
+							1319,
+							568,
+							1343,
+							477,
+							1344
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 887,
+							"length": 8
+						}
+					},
+					{
+						"content": "hours.",
+						"boundingBox": [
+							572,
+							1319,
+							639,
+							1321,
+							639,
+							1343,
+							572,
+							1343
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 896,
+							"length": 6
+						}
+					}
+				],
+				"selectionMarks": [],
+				"lines": [
+					{
+						"content": "Purchase Order",
+						"boundingBox": [
+							89,
+							91,
+							238,
+							92,
+							238,
+							113,
+							89,
+							112
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Hero Limited",
+						"boundingBox": [
+							422,
+							137,
+							734,
+							137,
+							734,
+							180,
+							422,
+							181
+						],
+						"spans": [
+							{
+								"offset": 15,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Company Phone: 555-348-6512",
+						"boundingBox": [
+							110,
+							238,
+							360,
+							238,
+							360,
+							256,
+							110,
+							257
+						],
+						"spans": [
+							{
+								"offset": 28,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Website: www.herolimited.com",
+						"boundingBox": [
+							111,
+							260,
+							362,
+							261,
+							362,
+							279,
+							111,
+							279
+						],
+						"spans": [
+							{
+								"offset": 56,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Email: accounts@herolimited.com",
+						"boundingBox": [
+							110,
+							285,
+							380,
+							285,
+							380,
+							303,
+							110,
+							303
+						],
+						"spans": [
+							{
+								"offset": 85,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "49823 Major Ave",
+						"boundingBox": [
+							111,
+							307,
+							245,
+							308,
+							245,
+							327,
+							111,
+							326
+						],
+						"spans": [
+							{
+								"offset": 117,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "Cheer, MS, 38601",
+						"boundingBox": [
+							110,
+							329,
+							248,
+							329,
+							248,
+							348,
+							110,
+							348
+						],
+						"spans": [
+							{
+								"offset": 133,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "Shipped To:",
+						"boundingBox": [
+							112,
+							372,
+							280,
+							372,
+							281,
+							403,
+							112,
+							403
+						],
+						"spans": [
+							{
+								"offset": 150,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Vendor Name: Seth Stanley",
+						"boundingBox": [
+							107,
+							415,
+							345,
+							416,
+							345,
+							437,
+							107,
+							435
+						],
+						"spans": [
+							{
+								"offset": 162,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "Company Name: Yoga for You",
+						"boundingBox": [
+							107,
+							442,
+							364,
+							441,
+							364,
+							462,
+							107,
+							462
+						],
+						"spans": [
+							{
+								"offset": 188,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "Address: 343 E Winter Road",
+						"boundingBox": [
+							107,
+							466,
+							347,
+							466,
+							347,
+							486,
+							107,
+							486
+						],
+						"spans": [
+							{
+								"offset": 215,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "Seattle, WA 93849 Phone: 234-986-6454",
+						"boundingBox": [
+							186,
+							492,
+							537,
+							492,
+							537,
+							512,
+							186,
+							513
+						],
+						"spans": [
+							{
+								"offset": 242,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "Shipped From:",
+						"boundingBox": [
+							111,
+							535,
+							318,
+							535,
+							318,
+							566,
+							111,
+							567
+						],
+						"spans": [
+							{
+								"offset": 280,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "Name: Josh Granger",
+						"boundingBox": [
+							110,
+							581,
+							286,
+							583,
+							285,
+							604,
+							110,
+							601
+						],
+						"spans": [
+							{
+								"offset": 294,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "Company Name: Granger Supply",
+						"boundingBox": [
+							109,
+							606,
+							394,
+							606,
+							394,
+							630,
+							109,
+							630
+						],
+						"spans": [
+							{
+								"offset": 313,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Address: 922 N Ebby Lane",
+						"boundingBox": [
+							111,
+							631,
+							332,
+							633,
+							332,
+							654,
+							110,
+							652
+						],
+						"spans": [
+							{
+								"offset": 342,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "Ft Lauderdale, FL Phone: 932-294-2958",
+						"boundingBox": [
+							187,
+							658,
+							536,
+							658,
+							536,
+							678,
+							187,
+							678
+						],
+						"spans": [
+							{
+								"offset": 367,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "Purchase Order",
+						"boundingBox": [
+							762,
+							214,
+							1064,
+							214,
+							1064,
+							252,
+							762,
+							252
+						],
+						"spans": [
+							{
+								"offset": 405,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Dated As: 04/04/2020",
+						"boundingBox": [
+							700,
+							285,
+							900,
+							285,
+							900,
+							306,
+							700,
+							306
+						],
+						"spans": [
+							{
+								"offset": 420,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Purchase Order #: 3929423",
+						"boundingBox": [
+							700,
+							313,
+							951,
+							314,
+							951,
+							333,
+							700,
+							333
+						],
+						"spans": [
+							{
+								"offset": 441,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "Details",
+						"boundingBox": [
+							303,
+							715,
+							381,
+							715,
+							381,
+							737,
+							303,
+							737
+						],
+						"spans": [
+							{
+								"offset": 467,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Quantity",
+						"boundingBox": [
+							606,
+							715,
+							705,
+							716,
+							704,
+							741,
+							606,
+							740
+						],
+						"spans": [
+							{
+								"offset": 475,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Unit Price",
+						"boundingBox": [
+							759,
+							715,
+							869,
+							716,
+							869,
+							737,
+							759,
+							737
+						],
+						"spans": [
+							{
+								"offset": 484,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "Total",
+						"boundingBox": [
+							946,
+							716,
+							1004,
+							716,
+							1004,
+							736,
+							946,
+							737
+						],
+						"spans": [
+							{
+								"offset": 495,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Long Yoga Mat",
+						"boundingBox": [
+							114,
+							747,
+							244,
+							747,
+							244,
+							770,
+							114,
+							770
+						],
+						"spans": [
+							{
+								"offset": 501,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							589,
+							747,
+							611,
+							748,
+							610,
+							765,
+							588,
+							765
+						],
+						"spans": [
+							{
+								"offset": 515,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "50.00",
+						"boundingBox": [
+							837,
+							748,
+							886,
+							748,
+							885,
+							765,
+							838,
+							765
+						],
+						"spans": [
+							{
+								"offset": 518,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "2500.00",
+						"boundingBox": [
+							976,
+							747,
+							1046,
+							747,
+							1046,
+							765,
+							976,
+							766
+						],
+						"spans": [
+							{
+								"offset": 524,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Short Yoga Man",
+						"boundingBox": [
+							114,
+							775,
+							251,
+							775,
+							250,
+							797,
+							114,
+							796
+						],
+						"spans": [
+							{
+								"offset": 532,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							589,
+							776,
+							610,
+							776,
+							610,
+							793,
+							589,
+							793
+						],
+						"spans": [
+							{
+								"offset": 547,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "50.00",
+						"boundingBox": [
+							836,
+							776,
+							885,
+							776,
+							884,
+							793,
+							836,
+							793
+						],
+						"spans": [
+							{
+								"offset": 550,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "2500.00",
+						"boundingBox": [
+							977,
+							776,
+							1047,
+							776,
+							1047,
+							793,
+							977,
+							793
+						],
+						"spans": [
+							{
+								"offset": 556,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Towel White",
+						"boundingBox": [
+							114,
+							805,
+							224,
+							805,
+							224,
+							824,
+							114,
+							824
+						],
+						"spans": [
+							{
+								"offset": 564,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "100",
+						"boundingBox": [
+							589,
+							807,
+							621,
+							807,
+							622,
+							823,
+							589,
+							823
+						],
+						"spans": [
+							{
+								"offset": 576,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "10.00",
+						"boundingBox": [
+							837,
+							807,
+							887,
+							807,
+							886,
+							823,
+							837,
+							823
+						],
+						"spans": [
+							{
+								"offset": 580,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "1000.00",
+						"boundingBox": [
+							977,
+							806,
+							1046,
+							806,
+							1046,
+							823,
+							977,
+							823
+						],
+						"spans": [
+							{
+								"offset": 586,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "Decal Stickers",
+						"boundingBox": [
+							115,
+							835,
+							234,
+							836,
+							233,
+							855,
+							115,
+							853
+						],
+						"spans": [
+							{
+								"offset": 594,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							590,
+							836,
+							611,
+							837,
+							611,
+							852,
+							589,
+							852
+						],
+						"spans": [
+							{
+								"offset": 609,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "5.00",
+						"boundingBox": [
+							846,
+							834,
+							886,
+							833,
+							886,
+							855,
+							847,
+							855
+						],
+						"spans": [
+							{
+								"offset": 612,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "250.00",
+						"boundingBox": [
+							987,
+							835,
+							1046,
+							835,
+							1046,
+							853,
+							987,
+							853
+						],
+						"spans": [
+							{
+								"offset": 617,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Water Bottle Blue",
+						"boundingBox": [
+							115,
+							866,
+							267,
+							866,
+							267,
+							884,
+							115,
+							884
+						],
+						"spans": [
+							{
+								"offset": 624,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "50",
+						"boundingBox": [
+							588,
+							866,
+							612,
+							866,
+							611,
+							883,
+							588,
+							882
+						],
+						"spans": [
+							{
+								"offset": 642,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "10.00",
+						"boundingBox": [
+							837,
+							866,
+							885,
+							866,
+							885,
+							883,
+							838,
+							883
+						],
+						"spans": [
+							{
+								"offset": 645,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "500.00",
+						"boundingBox": [
+							986,
+							866,
+							1046,
+							865,
+							1046,
+							883,
+							986,
+							884
+						],
+						"spans": [
+							{
+								"offset": 651,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Josh Granger",
+						"boundingBox": [
+							287,
+							1140,
+							427,
+							1143,
+							427,
+							1167,
+							286,
+							1165
+						],
+						"spans": [
+							{
+								"offset": 658,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Josh Granger",
+						"boundingBox": [
+							377,
+							1175,
+							480,
+							1177,
+							480,
+							1196,
+							377,
+							1194
+						],
+						"spans": [
+							{
+								"offset": 671,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "Supply Manger",
+						"boundingBox": [
+							370,
+							1199,
+							489,
+							1200,
+							489,
+							1220,
+							370,
+							1218
+						],
+						"spans": [
+							{
+								"offset": 684,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "Additional Notes:",
+						"boundingBox": [
+							115,
+							1229,
+							326,
+							1230,
+							326,
+							1255,
+							115,
+							1253
+						],
+						"spans": [
+							{
+								"offset": 698,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "SUBTOTAL",
+						"boundingBox": [
+							784,
+							1077,
+							887,
+							1077,
+							887,
+							1096,
+							784,
+							1095
+						],
+						"spans": [
+							{
+								"offset": 716,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "$6750.00",
+						"boundingBox": [
+							963,
+							1074,
+							1048,
+							1074,
+							1048,
+							1095,
+							963,
+							1096
+						],
+						"spans": [
+							{
+								"offset": 725,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "TAX",
+						"boundingBox": [
+							845,
+							1105,
+							886,
+							1104,
+							886,
+							1126,
+							845,
+							1126
+						],
+						"spans": [
+							{
+								"offset": 734,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "$600.00",
+						"boundingBox": [
+							975,
+							1105,
+							1047,
+							1104,
+							1047,
+							1125,
+							976,
+							1126
+						],
+						"spans": [
+							{
+								"offset": 738,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "TOTAL",
+						"boundingBox": [
+							822,
+							1145,
+							887,
+							1145,
+							887,
+							1163,
+							822,
+							1163
+						],
+						"spans": [
+							{
+								"offset": 746,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "$7350.00",
+						"boundingBox": [
+							965,
+							1142,
+							1047,
+							1142,
+							1047,
+							1162,
+							965,
+							1163
+						],
+						"spans": [
+							{
+								"offset": 752,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Enjoy. Namaste. If you have any issues with your Yoga supplies please contact us directly",
+						"boundingBox": [
+							116,
+							1285,
+							1016,
+							1286,
+							1016,
+							1311,
+							116,
+							1310
+						],
+						"spans": [
+							{
+								"offset": 761,
+								"length": 89
+							}
+						]
+					},
+					{
+						"content": "via email or at 250-209-1294 during business hours.",
+						"boundingBox": [
+							111,
+							1318,
+							639,
+							1318,
+							639,
+							1343,
+							111,
+							1342
+						],
+						"spans": [
+							{
+								"offset": 851,
+								"length": 51
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 902
+					}
+				]
+			}
+		],
+		"tables": [
+			{
+				"rowCount": 6,
+				"columnCount": 4,
+				"cells": [
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Details",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									709,
+									578,
+									709,
+									578,
+									743,
+									104,
+									743
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 467,
+								"length": 7
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Quantity",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									709,
+									732,
+									709,
+									732,
+									743,
+									578,
+									743
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 475,
+								"length": 8
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Unit Price",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									732,
+									709,
+									895,
+									709,
+									895,
+									743,
+									732,
+									743
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 484,
+								"length": 10
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Total",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									709,
+									1052,
+									709,
+									1053,
+									743,
+									895,
+									743
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 495,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Long Yoga Mat",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									743,
+									578,
+									743,
+									578,
+									771,
+									104,
+									772
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 501,
+								"length": 13
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "50",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									743,
+									732,
+									743,
+									732,
+									771,
+									578,
+									771
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 515,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "50.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									732,
+									743,
+									895,
+									743,
+									895,
+									771,
+									732,
+									771
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 518,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "2500.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									743,
+									1053,
+									743,
+									1054,
+									771,
+									895,
+									771
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 524,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Short Yoga Man",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									772,
+									578,
+									771,
+									578,
+									801,
+									104,
+									800
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 532,
+								"length": 14
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "50",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									771,
+									732,
+									771,
+									732,
+									800,
+									578,
+									801
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 547,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "50.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									732,
+									771,
+									895,
+									771,
+									895,
+									800,
+									732,
+									800
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 550,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "2500.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									771,
+									1054,
+									771,
+									1054,
+									800,
+									895,
+									800
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 556,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Towel White",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									800,
+									578,
+									801,
+									578,
+									830,
+									104,
+									830
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 564,
+								"length": 11
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "100",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									801,
+									732,
+									800,
+									732,
+									830,
+									578,
+									830
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 576,
+								"length": 3
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "10.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									732,
+									800,
+									895,
+									800,
+									895,
+									830,
+									732,
+									830
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 580,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "1000.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									800,
+									1054,
+									800,
+									1055,
+									830,
+									895,
+									830
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 586,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Decal Stickers",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									830,
+									578,
+									830,
+									578,
+									861,
+									104,
+									861
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 594,
+								"length": 14
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "50",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									830,
+									732,
+									830,
+									732,
+									861,
+									578,
+									861
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 609,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "5.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									732,
+									830,
+									895,
+									830,
+									895,
+									861,
+									732,
+									861
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 612,
+								"length": 4
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "250.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									830,
+									1055,
+									830,
+									1056,
+									861,
+									895,
+									861
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 617,
+								"length": 6
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "Water Bottle Blue",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									104,
+									861,
+									578,
+									861,
+									577,
+									891,
+									103,
+									891
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 624,
+								"length": 17
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "50",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									578,
+									861,
+									732,
+									861,
+									733,
+									891,
+									577,
+									891
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 642,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 2,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "10.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									732,
+									861,
+									895,
+									861,
+									895,
+									891,
+									733,
+									891
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 645,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 3,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "500.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									895,
+									861,
+									1056,
+									861,
+									1056,
+									891,
+									895,
+									891
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 651,
+								"length": 6
+							}
+						]
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"boundingBox": [
+							97,
+							710,
+							1063,
+							710,
+							1063,
+							892,
+							97,
+							892
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 467,
+						"length": 190
+					}
+				]
+			},
+			{
+				"rowCount": 2,
+				"columnCount": 2,
+				"cells": [
+					{
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "TAX",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									733,
+									1102,
+									894,
+									1101,
+									894,
+									1135,
+									733,
+									1139
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 734,
+								"length": 3
+							}
+						]
+					},
+					{
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "$600.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									894,
+									1101,
+									1056,
+									1100,
+									1056,
+									1134,
+									894,
+									1135
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 738,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "TOTAL",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									733,
+									1139,
+									894,
+									1135,
+									894,
+									1169,
+									733,
+									1169
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 746,
+								"length": 5
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"rowSpan": 1,
+						"columnSpan": 1,
+						"content": "$7350.00",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"boundingBox": [
+									894,
+									1135,
+									1056,
+									1134,
+									1056,
+									1169,
+									894,
+									1169
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 752,
+								"length": 8
+							}
+						]
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"boundingBox": [
+							724,
+							1095,
+							1063,
+							1095,
+							1063,
+							1165,
+							724,
+							1165
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 734,
+						"length": 26
+					}
+				]
+			}
+		],
+		"styles": []
+	}
+}
