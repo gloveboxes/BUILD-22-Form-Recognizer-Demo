@@ -20,7 +20,7 @@ def main():
         form_endpoint = os.getenv('FORM_ENDPOINT')
         form_key = os.getenv('FORM_KEY')
 
-        model_id = "build-demo"
+        model_id = "BUILD22-Demo"
 
         document_analysis_client = DocumentAnalysisClient(
             endpoint=form_endpoint, credential=AzureKeyCredential(form_key))
