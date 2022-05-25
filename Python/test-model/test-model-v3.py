@@ -31,6 +31,7 @@ def main():
 
         result = poller.result()
 
+        # Display key value pairs
         for idx, document in enumerate(result.documents):
             print()
             print("--------Analyzing document #{}--------".format(idx + 1))
@@ -49,6 +50,7 @@ def main():
         print(tabulate(data, headers=[
               'Label', 'Value', 'Confidence'], tablefmt='fancy_grid'))
 
+        # Display table data
         for i, table in enumerate(result.tables):
 
             row_index = 1
